@@ -6,3 +6,5 @@ build/
 tmp/
 
 bower_components/
+
+.env
